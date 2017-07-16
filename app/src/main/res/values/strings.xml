@@ -6,7 +6,7 @@
     <string name="title_activity_reaction_timer">ReactionTimerActivity</string>
     <string name="title_activity_game_show">Who\'s Fastest?</string>
     <string name="reactionClick">GO!</string>
-    <string name="reactionTimerInfoMsg">When you see \'GO!\', tap the red button as fast as possible.
+    <string name="reactionTimerInfoMsg">When you see the green \'GO!\', Each Player tap the red button as fast as possible.
         Your best, worst, and average performance will be recorded.</string>
     <string name="title_activity_num_players_picker_dialog_fragment">
         NumPlayersPickerDialogFragment
